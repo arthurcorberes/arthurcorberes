@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur CORBÈRES</h1>
-<h3 align="center">French tech enthusiast | Unity & C# | Fluent in English and coding languages | Arthur 🚀</h3>
+<h3 align="center">French tech enthusiast | Game Dev | Unity & C# | Tech is fun until Unity decides to 'unexpectedly' crash 🤡 | Arthur 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurcorberes&label=Profile%20views&color=062b16&style=flat" alt="arthurcorberes" /> </p>
 
